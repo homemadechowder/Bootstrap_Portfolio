@@ -1,0 +1,127 @@
+.navbar{
+    background-color: white;
+    border-bottom: 3px solid grey;
+
+}
+
+.navbar-dark{
+    color: #cccccc;
+}
+
+.navbar-expand-lg{
+    color: #cccccc;
+}
+
+.background{
+    width: 100%;
+    height: 100%;
+    background-color: lightgray;
+    margin-top: -3%;
+    padding-top: 5px;
+    padding-bottom: 5%;
+}
+.navbar-brand{
+    background-color: #4aaaa5;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+    color: #ffffff;
+    margin-top: -8px;
+    margin-bottom: -8px;
+    margin-left: 19.5%;
+    margin-right: 35%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+a.navbar-brand.hover{
+    color: #cccccc;
+}
+
+a.nav-link{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #cccccc;
+
+}
+
+.container{
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px solid grey;
+    background: white;
+    padding-bottom: 70px;
+}
+
+.col-custom-3{
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 100px;
+    padding-left: 5px;
+    padding-right:5px;
+}
+.col-custom-5{
+    position: relative;
+    float: left;
+    width: 250px;
+    height: 250px;
+    padding-left: 15px;
+    padding-right:15px;
+}
+.col-custom-11{
+    position: relative;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 160%;
+    color: #4aaaa5;
+    width: 90%;
+    margin-left: 50px;
+    padding-top: 40px;
+    padding-right: 30px;
+    border-bottom: 2px solid #cccccc;
+    font-weight: bold;
+}
+
+.label{
+    position: absolute;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    float: left;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    z-index: 2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+    margin-top: -60px;
+    
+ }
+.col-custom-12{
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 100%;
+    padding-left: 30px;
+    padding-right:30px;
+}
+
+.col-md-12{
+    text-align: center;
+    background: grey;
+    border-top: solid 7px #4aaaa5;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 3%;
+
+}
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    float: left;
+}
